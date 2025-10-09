@@ -28,7 +28,9 @@ streamlit run app.py
 
 Please notice that you need to fill your [Qwen API](https://www.aliyun.com/product/bailian) Key in the web page. 
 
-<video src="./data/demo.webm" controls></video>
+## Usage
+
+![](./data/demo.gif)
 
 ## Acknowledgments
 
