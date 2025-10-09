@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
     init_st()
 
-    api_key = st.sidebar.text_input("Please input your Qwen API Key: ", type="password", value="sk-a9f9167545b840c38bf60e99ad034f92")
+    api_key = st.sidebar.text_input("Please input your Qwen API Key: ", type="password")
 
     upload_file = st.file_uploader("Choose an image", type=["jpg", "png", "jpeg"])
 
