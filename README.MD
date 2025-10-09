@@ -28,6 +28,8 @@ streamlit run app.py
 
 Please notice that you need to fill your [Qwen API](https://www.aliyun.com/product/bailian) Key in the web page. 
 
+<video src="./data/demo.webm" controls></video>
+
 ## Acknowledgments
 
 This project utilized a pre-trained model from [teamsmcorg](https://github.com/teamsmcorg/Waste-Classification-using-YOLOv8)
@@ -43,5 +45,5 @@ This project utilized a pre-trained model from [teamsmcorg](https://github.com/t
 - Yunwei Long
 
 - Xiang Li
-- Yian Wang
 
+- Yian Wang
