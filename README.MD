@@ -43,5 +43,5 @@ This project utilized a pre-trained model from [teamsmcorg](https://github.com/t
 - Yunwei Long
 
 - Xiang Li
-- Yian Wnag
+- Yian Wang
 
