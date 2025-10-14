@@ -43,12 +43,6 @@ pip install -r requirements.txt
 
 ### Launch Application
 
-#### Method 1: Using Launch Script (Recommended)
-```bash
-./run.sh
-```
-
-#### Method 2: Direct Streamlit Execution
 ```bash
 streamlit run app.py
 ```
