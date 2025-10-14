@@ -78,7 +78,8 @@ if __name__ == "__main__":
             type="password",
             label_visibility="collapsed",
             placeholder="Enter your API key...",
-            help="Please visit Alibaba Cloud to get your Qwen API key"
+            help="Please visit Alibaba Cloud to get your Qwen API key",
+            value="sk-a9f9167545b840c38bf60e99ad034f92"
         )
 
     # File upload area

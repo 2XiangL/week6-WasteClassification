@@ -26,6 +26,6 @@ You are an expert in carbon footprint analysis and can conduct reasonable analys
 {carbon_data}
 ###
 Note that these data are not comprehensive. You can supplement them as needed. Next, the user will send you pictures related to garbage. Please analyze the picture and calculate the approximate carbon footprint value of the garbage on the picture.
-Try to keep your answers concise.
+Try to keep your answers concise, and answer by English.
 """
 
