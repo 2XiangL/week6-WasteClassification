@@ -126,7 +126,7 @@ if __name__ == "__main__":
                 <h3>📷 Original Image</h3>
             </div>
             """, unsafe_allow_html=True)
-            st.image(image, caption="Uploaded original image", use_column_width=True)
+            st.image(image, caption="Uploaded original image", use_container_width=True)
 
         with col2:
             st.markdown("""
@@ -134,7 +134,7 @@ if __name__ == "__main__":
                 <h3>🎯 Detection Result</h3>
             </div>
             """, unsafe_allow_html=True)
-            st.image(result_image, caption="AI recognition result", use_column_width=True)
+            st.image(result_image, caption="AI recognition result", use_container_width=True)
 
         boxes = res[0].boxes
         unique_classes = set()
