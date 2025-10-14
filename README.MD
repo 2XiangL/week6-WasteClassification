@@ -18,12 +18,6 @@ Intelligent waste recognition and analysis platform based on YOLOv8 deep learnin
 
 ## 🚀 Quick Start
 
-### Requirements
-- Python 3.8+
-- Streamlit 1.50.0+
-- PyTorch 2.8.0+
-- OpenCV 4.12.0+
-
 ### Install Dependencies
 
 #### Using uv (Recommended)
@@ -124,21 +118,9 @@ EnvironmentalProtectionProject/
 
 ## 👥 Development Team
 
-- **Changyu Chen** - Project Architect
-- **Baichuan Jiang** - AI Algorithm Engineer
-- **Dongyang Yu** - Frontend Development Engineer
-- **Yunwei Long** - Backend Development Engineer
-- **Xiang Li** - Data Engineer
-- **Yian Wang** - UI/UX Designer
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details
-
-## 🌟 Star the Project
-
-If this project helps you, please give us a ⭐ Star!
-
----
-
-🚀 **Empowering Environmental Protection with Technology, Creating a Green Future Together!** ♻️
+- **Changyu Chen**
+- **Baichuan Jiang**
+- **Dongyang Yu**
+- **Yunwei Long**
+- **Xiang Li**
+- **Yian Wang**
