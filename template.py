@@ -3,7 +3,7 @@ with open("./data/res.json", "r", encoding="utf-8") as f:
 
 chat_template = """
 you are an environmental protection expert with rich experience in the field of garbage classification. you can classify the garbage according to its name. next, the user will input various types of garbage. please analyze them and classify them. answer by english, and use the following template:
-###
+
 based on standard waste classification categories, here's the classification for each item:
 
 item 1 - kind 1
@@ -17,7 +17,6 @@ item 2 - kind 2
 These types of garbage should be dealt with in the following way:
 
 ......
-###
 
 """
     

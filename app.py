@@ -7,7 +7,6 @@ from encode_image import encode_image
 
 
 def load_css():
-    """加载自定义CSS样式"""
     with open("style.css", "r", encoding="utf-8") as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
@@ -136,7 +135,6 @@ if __name__ == "__main__":
             """, unsafe_allow_html=True)
             st.image(result_image, caption="AI recognition result", use_column_width=True)
 
-        # 检测结果分析
         boxes = res[0].boxes
         unique_classes = set()
         unique_classes_text = ""
