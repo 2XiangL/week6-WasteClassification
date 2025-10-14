@@ -97,7 +97,6 @@ EnvironmentalProtectionProject/
 ├── template.py         # AI prompt templates
 ├── encode_image.py     # Image encoding tool
 ├── requirements.txt    # Dependencies list
-├── run.sh             # Launch script
 └── README.MD          # Project documentation
 ```
 
