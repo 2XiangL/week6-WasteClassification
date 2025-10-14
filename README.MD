@@ -23,7 +23,7 @@ Intelligent waste recognition and analysis platform based on YOLOv8 deep learnin
 #### Using uv (Recommended)
 ```bash
 uv venv
-source ./.venv/bin/activate
+source ./.venv/bin/activate # Windows: venv\Scripts\activate
 uv pip install -r requirements.txt
 ```
 
